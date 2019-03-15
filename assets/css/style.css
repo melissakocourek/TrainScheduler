@@ -1,5 +1,8 @@
 body {
-    background-image: url("assets/images/background.jpg");
+    background: url('../images/header.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+  background-size: contain;
     }
     .card {
         opacity: 0.85;
